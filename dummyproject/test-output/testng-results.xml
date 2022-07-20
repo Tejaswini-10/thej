@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-07-20T14:40:59 IST" name="Default suite" finished-at="2022-07-20T14:40:59 IST" duration-ms="40">
+  <suite started-at="2022-07-20T15:21:40 IST" name="Default suite" finished-at="2022-07-20T15:21:40 IST" duration-ms="44">
     <groups>
     </groups>
-    <test started-at="2022-07-20T14:40:59 IST" name="Default test" finished-at="2022-07-20T14:40:59 IST" duration-ms="40">
-      <class name="dummyproject.DDemo2">
-        <test-method signature="practisceTest3()[pri:0, instance:dummyproject.DDemo2@2805d709]" started-at="2022-07-20T14:40:59 IST" name="practisceTest3" finished-at="2022-07-20T14:40:59 IST" duration-ms="8" status="PASS">
+    <test started-at="2022-07-20T15:21:40 IST" name="Default test" finished-at="2022-07-20T15:21:40 IST" duration-ms="44">
+      <class name="dummyproject.DDemo1">
+        <test-method signature="practisceTest1()[pri:0, instance:dummyproject.DDemo1@71a8adcf]" started-at="2022-07-20T15:21:40 IST" name="practisceTest1" finished-at="2022-07-20T15:21:40 IST" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- practisceTest3 -->
-        <test-method signature="practisceTest6()[pri:0, instance:dummyproject.DDemo2@2805d709]" started-at="2022-07-20T14:40:59 IST" name="practisceTest6" finished-at="2022-07-20T14:40:59 IST" duration-ms="1" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- practisceTest6 -->
-      </class> <!-- dummyproject.DDemo2 -->
+        </test-method> <!-- practisceTest1 -->
+      </class> <!-- dummyproject.DDemo1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
