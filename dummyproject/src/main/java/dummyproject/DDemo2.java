@@ -12,6 +12,6 @@ public class DDemo2 {
 	
 	public void practisceTest6()
 	{
-		System.out.println("TYSS---2");
+		System.out.println("TYSS---231");
 }
 }
