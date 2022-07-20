@@ -3,7 +3,8 @@ package dummyproject;
 import org.testng.annotations.Test;
 
 public class DDemo2 {
-@Test
+
+	@Test
 	
 	public void practisceTest3() {
 		System.out.println("TYSS--1");
